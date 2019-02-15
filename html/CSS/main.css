@@ -6,11 +6,18 @@ h1{
   color:#FFFFFF;
 
 }
-p{
+#white_colour{
   color:#FFFFFF;
 
 }
+#black_colour{
+  color:black;
+}
 .job_offer{
   text-align: center;
+}
+.skils{
+  text-size: 14pt;
   
+
 }
