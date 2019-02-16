@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Krynytsky</title>
-    <style><?php include 'CSS/main.css'; ?></style>
+    <style><?php include 'html/CSS/main.css'; ?></style>
   </head>
   <body>
     <header>
