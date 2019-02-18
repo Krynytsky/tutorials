@@ -1,5 +1,7 @@
 html{
   font-size: 14pt;
+  width: 100%;
+  hyphens: 100%;
 }
 header{
   background-color:#000000 ;

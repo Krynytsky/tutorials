@@ -7,23 +7,29 @@
     <style><?php include 'CSS/style.css'; ?></style>
   </head>
   <body>
+
     <header>
         <h1>Yurii Krynytsky</h1>
-        <p id="white_colour">Email: yurii.krynytsky@gmail.com</p>
-        <p id="white_colour">Phone:+380675949837</p>
-        <p id="white_colour">Address:Ukraine,Sambir 81400, Ivasyka str. </p>
+        <p>Email: yurii.krynytsky@gmail.com</p>
+        <p>Phone:+380675949837</p>
+        <p>Address:Ukraine,Sambir 81400, Ivasyka str. </p>
     </header>
+
   <div class="job_offer">
       <h2>Junior PHP developer</h2>
   </div>
+
   <div class="summary">
       <h3>Summary:</h3><br>
-      <p id="black_colour">Junior programming developer with experience of programming in PHP. Also have a strong
+      <p>Junior programming developer with experience of programming in PHP. Also have a strong
 theoretical background in quality assurance. Experience in manual testing of web resources. Have a
 practice of writing test cases, checklists, bug reports. Understanding of SDLC.</p><br>
   </div>
 <hr/>
-  <h3><b>Skills:</b></h3><hr/>
+
+  <h3><b>Skills:</b></h3>
+  <hr/>
+
   <article class="articles">
           <ul>
              <li>Programming Languages /Technologies:C++,PHP,OOP, html/css;</li>
@@ -41,6 +47,7 @@ practice of writing test cases, checklists, bug reports. Understanding of SDLC.<
     <hr/>
       <article class="articles">
         <ul>
+          <li>Epam trainin program of PHP developmant</li>
           <li>QATestLab (http://training.qatestlab.com/)</li>
           <li>Training project of testing the website prestashop.qatestlab.com.ua</li>
           <li>Writing test cases, checklists.</li>
@@ -72,7 +79,8 @@ practice of writing test cases, checklists, bug reports. Understanding of SDLC.<
           </ul>
         </article>
     <footer>
-      <h2>Download in pdf</h2>
+
+      <h2>Open in pdf</h2>
     </footer>
   </body>
 </html>
