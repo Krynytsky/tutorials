@@ -79,8 +79,9 @@ practice of writing test cases, checklists, bug reports. Understanding of SDLC.<
           </ul>
         </article>
     <footer>
-
-      <h2>Open in pdf</h2>
+      <a href="Yurii_CV.pdf">
+    <button class="button button1"> Open in PDF</button>
+      </a>
     </footer>
   </body>
 </html>
