@@ -9,10 +9,12 @@
   <body>
 
     <header>
-        <h1>Yurii Krynytsky</h1>
+
+        <h1>Yurii Krynytskyi</h1>
         <p>Email: yurii.krynytsky@gmail.com</p>
         <p>Phone:+380675949837</p>
         <p>Address:Ukraine,Sambir 81400, Ivasyka str. </p>
+
     </header>
 
   <div class="job_offer">
@@ -79,7 +81,7 @@ practice of writing test cases, checklists, bug reports. Understanding of SDLC.<
           </ul>
         </article>
     <footer>
-      <a href="Yurii_CV.pdf">
+      <a href="yurii_CV.pdf">
     <button class="button button1"> Open in PDF</button>
       </a>
     </footer>
