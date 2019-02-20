@@ -1,2 +1,2 @@
 # tutorials
-Epam Lerning progects
+Epam Lerning projects
