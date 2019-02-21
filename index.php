@@ -12,7 +12,7 @@
   <body>
     <header>
         <h1 id="author">Yurii Krynytskyi</h1>
-        <p><img src="images/mail.png" alt="Email">Email: yurii.krynytsky@gmail.com</p>
+        <p><img src="images/mail.png">Email: yurii.krynytsky@gmail.com</p>
         <!-- <a href="yurii.krynytsky@gmail.com">Email:yurii.krynytsky@gmail.com</a> -->
         <p><img src="images/phone.png">Phone:+380675949837</p>
         <p><img src="images/address.png">Address:Ukraine,Sambir 81400, Ivasyka str. </p>
