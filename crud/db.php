@@ -1,15 +1,10 @@
 <?php
-$dsn = 'mysql:host=localhost; dbname = ';
+$dsn = 'mysql:host=localhost;dbname=students';
 $username = 'root';
 $password = 'Krntsk020594';
 $options = [];
 try {
-  $conn = new PDO ($dsn, $username, $password, $options);
-  echo "connection successful!";
-
-} catch (PDOException $e) {
-  echo "Connection failed: " . $e->getMessage();
+$connection = new PDO($dsn, $username, $password, $options);
+} catch(PDOException $e) {
 
 }
-
- ?>
